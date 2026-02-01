@@ -49,3 +49,12 @@ to support data-driven business decisions.
 - Categorized age groups using `CASE WHEN`
 - Performed date-based analysis using `YEAR(invoice_date)`
 
+
+## 🔍 Key Insights
+
+- Female customers recorded a higher number of transactions than male customers.
+- The 26–35 age group generated the highest overall revenue.
+- Clothing was the most frequently purchased product category.
+- Credit card payments were the most preferred payment method.
+
+
