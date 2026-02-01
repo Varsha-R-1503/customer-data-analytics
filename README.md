@@ -8,3 +8,9 @@ any database with a similar schema to reproduce the analysis.
 
 
 
+## 📌 Project Overview
+
+This project focuses on analyzing customer shopping behavior using SQL.
+The objective is to identify trends across customer demographics,
+purchase categories, payment methods, and revenue contribution
+to support data-driven business decisions.
