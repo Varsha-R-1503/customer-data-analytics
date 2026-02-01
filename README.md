@@ -39,3 +39,13 @@ to support data-driven business decisions.
 | payment_method  | Mode of payment |
 | shopping_mall   | Mall location |
 | invoice_date    | Date of purchase |
+
+## 🧠 SQL Analysis Performed
+
+- Used `COUNT()` to measure transaction volume
+- Applied `SUM()` to calculate total revenue
+- Grouped data using `GROUP BY`
+- Filtered records using `WHERE`
+- Categorized age groups using `CASE WHEN`
+- Performed date-based analysis using `YEAR(invoice_date)`
+
