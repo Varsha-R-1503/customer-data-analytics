@@ -14,3 +14,12 @@ This project focuses on analyzing customer shopping behavior using SQL.
 The objective is to identify trends across customer demographics,
 purchase categories, payment methods, and revenue contribution
 to support data-driven business decisions.
+
+## ❓ Business Questions Answered
+
+- How is the shopping distribution across genders?
+- Which gender contributes more to total revenue?
+- How does shopping behavior vary across age groups?
+- Which age group generates the highest revenue?
+- How do purchase categories differ across demographics?
+- What payment methods are most preferred by customers?
