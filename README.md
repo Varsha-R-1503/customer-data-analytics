@@ -60,5 +60,15 @@ to support data-driven business decisions.
 
 ## 📁 Project Structure
 
+## ▶️ How to Run This Project
+
+1. Install MySQL or any compatible SQL database.
+2. Create a new database (example: `customer_analytics`).
+3. Create the `customer` table using the schema described above.
+4. Import or insert customer data into the table.
+5. Open and execute SQL files from the `sql` folder one by one.
+6. Analyze query outputs to derive business insights.
+
+
 
 
