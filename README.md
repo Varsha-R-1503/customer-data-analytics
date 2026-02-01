@@ -23,3 +23,19 @@ to support data-driven business decisions.
 - Which age group generates the highest revenue?
 - How do purchase categories differ across demographics?
 - What payment methods are most preferred by customers?
+
+## 🗄️ Database Schema
+
+**Table: customer**
+
+| Column Name     | Description |
+|-----------------|-------------|
+| invoice_no      | Unique transaction identifier |
+| gender          | Customer gender |
+| age             | Customer age |
+| category        | Product category |
+| quantity        | Number of items purchased |
+| price           | Transaction amount |
+| payment_method  | Mode of payment |
+| shopping_mall   | Mall location |
+| invoice_date    | Date of purchase |
